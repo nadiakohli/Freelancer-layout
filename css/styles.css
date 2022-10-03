@@ -57,7 +57,7 @@ a {
     margin-left: 10px;
 }
 
-/* ------header-top --------- */
+/* ------ header-top ------ */
 .container-header-background {
     padding: 0 220px 0 210px;
     height: 100vh;
@@ -169,8 +169,8 @@ a {
     font-weight: bold;
 }
 
-/* ------content------ */
-/* -------content-snippet------ */
+/* ------ content ------ */
+/* ------ content-snippet ------ */
 .content-snippets {
     display: flex;
     flex-direction: row;
@@ -219,7 +219,7 @@ a {
     opacity: 1;
 }
 
-/* -------content-portfolio------ */
+/* ------ content-portfolio ------ */
 .portfolio-elements {
     display: flex;
     flex-direction: row;
@@ -281,7 +281,7 @@ a {
     opacity: 1;
 }
 
-/* -------content-our-team------ */
+/* ------ content-our-team ------ */
 .our-team-title {
     width: 75%;
 }
@@ -371,7 +371,7 @@ a {
     opacity: 0;
 }
 
-/* -------content-footer------ */
+/* ------ content-footer ------ */
 .line {
     margin: 62px 0 35px 0;
     border-bottom: 1px solid #e6eaed; 
@@ -400,13 +400,12 @@ a {
    width: 35%;
 }
 
-/* ------ */
 @media screen and (max-width: 1280px) {
     .container {
         padding: 0 120px 0 110px;
     }
 
-    /* ------header-top --------- */
+    /* ------ header-top ------ */
     .container-header-background {
         padding: 0 120px 0 110px;
     }
@@ -465,8 +464,8 @@ a {
         font-size: 12px;
     }
 
-    /* ------content------ */
-    /* -------content-snippet------ */
+    /* ------ content ------ */
+    /* ------ content-snippet ------ */
     .content-snippets {
         margin-top: 47px;
         line-height: 1.5;
@@ -489,7 +488,7 @@ a {
         font-size: 11px;
     }
 
-    /* -------content-portfolio------ */
+    /* ------ content-portfolio ------ */
     .portfolio-elements {
         margin-top: 27px;
     }
@@ -519,7 +518,7 @@ a {
         font-size: 11px;
     }
 
-    /* -------content-our-team------ */
+    /* ------ content-our-team ------ */
     .our-team-title {
         width: 75%;
     }
@@ -567,7 +566,7 @@ a {
         width: 75px;
     }
 
-    /* -------content-footer------ */
+    /* ------ content-footer ------ */
     .line {
         margin: 32px 0 35px 0;
     }
@@ -600,7 +599,7 @@ a {
         padding: 0 60px 0 55px;
     }
 
-    /* ------header-top --------- */
+    /* ------ header-top ------ */
     .container-header-background {
         padding: 0 60px 0 55px;
     }
@@ -693,8 +692,8 @@ a {
         font-size: 9px;
     }
 
-    /* ------content------ */
-    /* -------content-snippet------ */
+    /* ------ content ------ */
+    /* ------ content-snippet ------ */
     .content-snippets {
         margin-top: 27px;
         line-height: 1.5;
@@ -717,7 +716,7 @@ a {
         font-size: 11px;
     }
 
-    /* -------content-portfolio------ */
+    /* ------ content-portfolio ------ */
     .portfolio-elements {
         margin-top: 27px;
     }
@@ -747,7 +746,7 @@ a {
         font-size: 11px;
     }
 
-    /* -------content-our-team------ */
+    /* ------ content-our-team ------ */
     .our-team-title {
         width: 75%;
     }
@@ -804,7 +803,7 @@ a {
         width: 50px;
     }
 
-    /* -------content-footer------ */
+    /* ------ content-footer ------ */
     .line {
         margin: 15px 0 18px 0;
     }
@@ -836,7 +835,7 @@ a {
         padding: 0 30px 0 25px;
     }
 
-    /* ------header-top --------- */
+    /* ------ header-top ------ */
     .container-header-background {
         padding: 0 30px 0 25px;
     }
@@ -881,8 +880,8 @@ a {
         font-size: 6px;
     }
 
-    /* ------content------ */
-    /* -------content-snippet------ */
+    /* ------ content ------ */
+    /* ------ content-snippet ------ */
     .content-snippets {
         margin-top: 17px;
         line-height: 1.5;
@@ -905,7 +904,7 @@ a {
         font-size: 9px;
     }
 
-    /* -------content-portfolio------ */
+    /* ------ content-portfolio ------ */
     .portfolio-elements {
         margin-top: 17px;
     }
@@ -935,7 +934,7 @@ a {
         font-size: 9px;
     }
 
-    /* -------content-our-team------ */
+    /* ------ content-our-team ------ */
     .our-team-title {
         width: 75%;
     }
@@ -992,7 +991,7 @@ a {
         width: 50px;
     }
 
-    /* -------content-footer------ */
+    /* ------ content-footer ------ */
     .line {
         margin: 10px 0 13px 0;
     }
@@ -1024,7 +1023,7 @@ a {
         padding: 0 15px 0 15px;
     }
 
-    /* ------header-top --------- */
+    /* ------ header-top ------ */
     .container-header-background {
         padding: 0 15px 0 15px;
     }
@@ -1058,8 +1057,8 @@ a {
         font-size: 5px;
     }
 
-    /* ------content------ */
-    /* -------content-snippet------ */
+    /* ------ content ------ */
+    /* ------ content-snippet ------ */
     .content-snippets {
         margin-top: 10px;
         line-height: 1.2;
@@ -1087,7 +1086,7 @@ a {
         margin-left: 0;
     }
 
-    /* -------content-portfolio------ */
+    /* ------ content-portfolio ------ */
     .portfolio-elements {
         margin-top: 10px;
     }
@@ -1113,7 +1112,7 @@ a {
         font-size: 6px;
     }
 
-    /* -------content-our-team------ */
+    /* ------ content-our-team ------ */
     .our-team-title {
         width: 75%;
     }
@@ -1160,7 +1159,7 @@ a {
         width: 35px;
     }
 
-    /* -------content-footer------ */
+    /* ------ content-footer ------ */
     .line {
         margin: 10px 0 10px 0;
     }
